@@ -1,0 +1,6 @@
+{
+    "module": "ch_pp-ocrv3",
+
+    "CUDA_VISIBLE_DEVICES": "0",
+    "device": "GPU"
+}
